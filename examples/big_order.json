@@ -1,0 +1,5473 @@
+{
+ "id": "ORD-2026-118842",
+ "customer": {
+  "name": "Test Customer",
+  "email": "test@example.com",
+  "address": {
+   "city": "Delhi",
+   "pin": "110078"
+  }
+ },
+ "coupon": "DIWALI15",
+ "items": [
+  {
+   "sku": "SKU-52445",
+   "title": "Notebook A5",
+   "price": 99.31,
+   "qty": 1,
+   "type": "gift_card",
+   "discount": 0,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-57931",
+   "title": "Gift card",
+   "price": 15.44,
+   "qty": 5,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-66838",
+   "title": "Desk lamp",
+   "price": 18.39,
+   "qty": 1,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-26226",
+   "title": "Notebook A5",
+   "price": 158.03,
+   "qty": 5,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-61993",
+   "title": "Blue mug",
+   "price": 244.09,
+   "qty": 1,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-28907",
+   "title": "Gift card",
+   "price": 30.33,
+   "qty": 3,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-84868",
+   "title": "Notebook A5",
+   "price": 93.73,
+   "qty": 5,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-91134",
+   "title": "Notebook A5",
+   "price": 124.61,
+   "qty": 5,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-86750",
+   "title": "Desk lamp",
+   "price": 91.03,
+   "qty": 2,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-20728",
+   "title": "Gift card",
+   "price": 75.76,
+   "qty": 4,
+   "type": "physical",
+   "discount": 10,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-47740",
+   "title": "Gift card",
+   "price": 245.06,
+   "qty": 1,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-29920",
+   "title": "Desk lamp",
+   "price": 106.0,
+   "qty": 1,
+   "type": "physical",
+   "discount": 10,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-55898",
+   "title": "Gift card",
+   "price": 124.67,
+   "qty": 4,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-72141",
+   "title": "Blue mug",
+   "price": 16.11,
+   "qty": 3,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-60566",
+   "title": "USB-C cable 2m",
+   "price": 6.62,
+   "qty": 4,
+   "type": "physical",
+   "discount": 10,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-25347",
+   "title": "Desk lamp",
+   "price": 15.68,
+   "qty": 3,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-62153",
+   "title": "Desk lamp",
+   "price": 229.29,
+   "qty": 4,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-62644",
+   "title": "Gift card",
+   "price": 70.18,
+   "qty": 2,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-64433",
+   "title": "USB-C cable 2m",
+   "price": 171.0,
+   "qty": 4,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-33097",
+   "title": "Notebook A5",
+   "price": 58.76,
+   "qty": 2,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-33900",
+   "title": "USB-C cable 2m",
+   "price": 71.2,
+   "qty": 2,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-89929",
+   "title": "Gift card",
+   "price": 80.33,
+   "qty": 2,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-83304",
+   "title": "Desk lamp",
+   "price": 100.12,
+   "qty": 4,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-62486",
+   "title": "Blue mug",
+   "price": 48.46,
+   "qty": 2,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-54571",
+   "title": "Gift card",
+   "price": 14.09,
+   "qty": 1,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-57659",
+   "title": "Gift card",
+   "price": 7.35,
+   "qty": 2,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-43063",
+   "title": "USB-C cable 2m",
+   "price": 150.97,
+   "qty": 4,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-71078",
+   "title": "Desk lamp",
+   "price": 121.47,
+   "qty": 1,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-54909",
+   "title": "USB-C cable 2m",
+   "price": 120.18,
+   "qty": 2,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-57415",
+   "title": "Notebook A5",
+   "price": 172.83,
+   "qty": 1,
+   "type": "physical",
+   "discount": 10,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-44224",
+   "title": "Gift card",
+   "price": 92.31,
+   "qty": 2,
+   "type": "physical",
+   "discount": 10,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-80984",
+   "title": "Gift card",
+   "price": 83.09,
+   "qty": 2,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-39719",
+   "title": "Notebook A5",
+   "price": 129.89,
+   "qty": 3,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-71897",
+   "title": "USB-C cable 2m",
+   "price": 49.22,
+   "qty": 5,
+   "type": "physical",
+   "discount": 10,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-55812",
+   "title": "USB-C cable 2m",
+   "price": 21.05,
+   "qty": 1,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-54267",
+   "title": "Notebook A5",
+   "price": 121.18,
+   "qty": 5,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-55089",
+   "title": "Blue mug",
+   "price": 208.83,
+   "qty": 1,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-72656",
+   "title": "Notebook A5",
+   "price": 109.05,
+   "qty": 3,
+   "type": "gift_card",
+   "discount": 0,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-70707",
+   "title": "Desk lamp",
+   "price": 186.09,
+   "qty": 1,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-13610",
+   "title": "Notebook A5",
+   "price": 148.11,
+   "qty": 4,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-72174",
+   "title": "USB-C cable 2m",
+   "price": 39.82,
+   "qty": 5,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-95154",
+   "title": "Blue mug",
+   "price": 132.12,
+   "qty": 2,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-13669",
+   "title": "USB-C cable 2m",
+   "price": 53.98,
+   "qty": 5,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-43995",
+   "title": "Gift card",
+   "price": 105.33,
+   "qty": 2,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-70052",
+   "title": "Gift card",
+   "price": 203.95,
+   "qty": 5,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-79707",
+   "title": "Notebook A5",
+   "price": 131.35,
+   "qty": 1,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-10515",
+   "title": "Notebook A5",
+   "price": 43.91,
+   "qty": 4,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-52727",
+   "title": "Gift card",
+   "price": 133.15,
+   "qty": 4,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-42570",
+   "title": "Notebook A5",
+   "price": 69.95,
+   "qty": 1,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-18305",
+   "title": "Desk lamp",
+   "price": 82.08,
+   "qty": 5,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-69289",
+   "title": "Gift card",
+   "price": 133.79,
+   "qty": 4,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-44025",
+   "title": "Gift card",
+   "price": 223.3,
+   "qty": 2,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-25941",
+   "title": "Desk lamp",
+   "price": 111.09,
+   "qty": 1,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-37877",
+   "title": "USB-C cable 2m",
+   "price": 196.2,
+   "qty": 2,
+   "type": "physical",
+   "discount": 10,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-27990",
+   "title": "Desk lamp",
+   "price": 55.68,
+   "qty": 1,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-97534",
+   "title": "Notebook A5",
+   "price": 41.21,
+   "qty": 4,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-35656",
+   "title": "USB-C cable 2m",
+   "price": 80.31,
+   "qty": 3,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-70118",
+   "title": "Desk lamp",
+   "price": 176.08,
+   "qty": 4,
+   "type": "physical",
+   "discount": 10,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-48725",
+   "title": "Gift card",
+   "price": 240.23,
+   "qty": 1,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-44808",
+   "title": "USB-C cable 2m",
+   "price": 10.86,
+   "qty": 2,
+   "type": "physical",
+   "discount": 10,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-98601",
+   "title": "USB-C cable 2m",
+   "price": 102.08,
+   "qty": 5,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-21725",
+   "title": "USB-C cable 2m",
+   "price": 15.32,
+   "qty": 2,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-12206",
+   "title": "Blue mug",
+   "price": 200.61,
+   "qty": 1,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-25948",
+   "title": "Desk lamp",
+   "price": 3.88,
+   "qty": 5,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-26937",
+   "title": "Blue mug",
+   "price": 132.2,
+   "qty": 2,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-16603",
+   "title": "Notebook A5",
+   "price": 51.24,
+   "qty": 3,
+   "type": "physical",
+   "discount": 10,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-48005",
+   "title": "Desk lamp",
+   "price": 125.52,
+   "qty": 2,
+   "type": "physical",
+   "discount": 10,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-42826",
+   "title": "Blue mug",
+   "price": 4.82,
+   "qty": 5,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-42201",
+   "title": "Desk lamp",
+   "price": 27.46,
+   "qty": 4,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-76412",
+   "title": "USB-C cable 2m",
+   "price": 172.25,
+   "qty": 2,
+   "type": "physical",
+   "discount": 10,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-93358",
+   "title": "Notebook A5",
+   "price": 101.77,
+   "qty": 3,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-19269",
+   "title": "USB-C cable 2m",
+   "price": 108.25,
+   "qty": 1,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-76314",
+   "title": "USB-C cable 2m",
+   "price": 150.1,
+   "qty": 3,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-30648",
+   "title": "USB-C cable 2m",
+   "price": 112.01,
+   "qty": 3,
+   "type": "physical",
+   "discount": 10,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-52406",
+   "title": "Notebook A5",
+   "price": 9.58,
+   "qty": 3,
+   "type": "gift_card",
+   "discount": 5,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-10140",
+   "title": "USB-C cable 2m",
+   "price": 96.03,
+   "qty": 4,
+   "type": "physical",
+   "discount": 10,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-36342",
+   "title": "Notebook A5",
+   "price": 126.68,
+   "qty": 1,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-28856",
+   "title": "Desk lamp",
+   "price": 147.11,
+   "qty": 4,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-92532",
+   "title": "Notebook A5",
+   "price": 22.04,
+   "qty": 5,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-88192",
+   "title": "Desk lamp",
+   "price": 191.31,
+   "qty": 4,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-91095",
+   "title": "Notebook A5",
+   "price": 11.9,
+   "qty": 5,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-76262",
+   "title": "Notebook A5",
+   "price": 227.56,
+   "qty": 5,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-99508",
+   "title": "Notebook A5",
+   "price": 22.19,
+   "qty": 1,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-23751",
+   "title": "Desk lamp",
+   "price": 209.12,
+   "qty": 5,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-92080",
+   "title": "Gift card",
+   "price": 170.49,
+   "qty": 4,
+   "type": "physical",
+   "discount": 10,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-19189",
+   "title": "Gift card",
+   "price": 224.57,
+   "qty": 1,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-72109",
+   "title": "USB-C cable 2m",
+   "price": 202.5,
+   "qty": 3,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-40243",
+   "title": "Desk lamp",
+   "price": 123.99,
+   "qty": 4,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-47659",
+   "title": "Blue mug",
+   "price": 154.63,
+   "qty": 2,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-53486",
+   "title": "USB-C cable 2m",
+   "price": 163.23,
+   "qty": 3,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-17950",
+   "title": "Desk lamp",
+   "price": 67.92,
+   "qty": 1,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-48123",
+   "title": "Gift card",
+   "price": 72.1,
+   "qty": 4,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-36116",
+   "title": "USB-C cable 2m",
+   "price": 244.55,
+   "qty": 4,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-20022",
+   "title": "Gift card",
+   "price": 242.06,
+   "qty": 4,
+   "type": "physical",
+   "discount": 10,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-37618",
+   "title": "Blue mug",
+   "price": 145.79,
+   "qty": 2,
+   "type": "physical",
+   "discount": 10,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-89084",
+   "title": "Gift card",
+   "price": 70.61,
+   "qty": 1,
+   "type": "physical",
+   "discount": 10,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-73719",
+   "title": "Desk lamp",
+   "price": 7.18,
+   "qty": 1,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-63139",
+   "title": "USB-C cable 2m",
+   "price": 182.07,
+   "qty": 4,
+   "type": "physical",
+   "discount": 10,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-25847",
+   "title": "USB-C cable 2m",
+   "price": 1.43,
+   "qty": 3,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-11536",
+   "title": "USB-C cable 2m",
+   "price": 64.05,
+   "qty": 1,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-20013",
+   "title": "USB-C cable 2m",
+   "price": 231.43,
+   "qty": 3,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-16765",
+   "title": "USB-C cable 2m",
+   "price": 159.11,
+   "qty": 2,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-76972",
+   "title": "USB-C cable 2m",
+   "price": 48.27,
+   "qty": 3,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-62434",
+   "title": "Gift card",
+   "price": 137.76,
+   "qty": 1,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-69095",
+   "title": "Gift card",
+   "price": 188.41,
+   "qty": 3,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-26686",
+   "title": "Notebook A5",
+   "price": 118.57,
+   "qty": 3,
+   "type": "physical",
+   "discount": 10,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-95566",
+   "title": "USB-C cable 2m",
+   "price": 102.15,
+   "qty": 2,
+   "type": "physical",
+   "discount": 10,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-97670",
+   "title": "Desk lamp",
+   "price": 30.82,
+   "qty": 2,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-75152",
+   "title": "Gift card",
+   "price": 55.79,
+   "qty": 3,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-81799",
+   "title": "Notebook A5",
+   "price": 61.78,
+   "qty": 2,
+   "type": "physical",
+   "discount": 10,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-51849",
+   "title": "Notebook A5",
+   "price": 92.71,
+   "qty": 5,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-64104",
+   "title": "Desk lamp",
+   "price": 104.06,
+   "qty": 5,
+   "type": "gift_card",
+   "discount": 5,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-54328",
+   "title": "Blue mug",
+   "price": 125.04,
+   "qty": 5,
+   "type": "physical",
+   "discount": 10,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-75981",
+   "title": "Gift card",
+   "price": 157.78,
+   "qty": 2,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-60405",
+   "title": "Desk lamp",
+   "price": 161.8,
+   "qty": 4,
+   "type": "physical",
+   "discount": 10,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-14226",
+   "title": "Desk lamp",
+   "price": 177.67,
+   "qty": 4,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-61317",
+   "title": "Gift card",
+   "price": 214.01,
+   "qty": 4,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-30234",
+   "title": "Notebook A5",
+   "price": 131.07,
+   "qty": 1,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-15183",
+   "title": "Blue mug",
+   "price": 195.79,
+   "qty": 2,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-49817",
+   "title": "Notebook A5",
+   "price": 156.99,
+   "qty": 5,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-23034",
+   "title": "Blue mug",
+   "price": 75.79,
+   "qty": 5,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-39305",
+   "title": "Gift card",
+   "price": 1.29,
+   "qty": 5,
+   "type": "physical",
+   "discount": 10,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-51465",
+   "title": "Notebook A5",
+   "price": 119.35,
+   "qty": 2,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-95150",
+   "title": "USB-C cable 2m",
+   "price": 14.77,
+   "qty": 2,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-65052",
+   "title": "Blue mug",
+   "price": 65.06,
+   "qty": 4,
+   "type": "physical",
+   "discount": 10,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-14469",
+   "title": "USB-C cable 2m",
+   "price": 179.86,
+   "qty": 3,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-48287",
+   "title": "Gift card",
+   "price": 17.79,
+   "qty": 4,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-40252",
+   "title": "Desk lamp",
+   "price": 56.14,
+   "qty": 3,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-89966",
+   "title": "Notebook A5",
+   "price": 224.22,
+   "qty": 4,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-87961",
+   "title": "Notebook A5",
+   "price": 230.56,
+   "qty": 1,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-28600",
+   "title": "Desk lamp",
+   "price": 13.91,
+   "qty": 1,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-51182",
+   "title": "Blue mug",
+   "price": 249.38,
+   "qty": 2,
+   "type": "physical",
+   "discount": 10,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-95520",
+   "title": "Gift card",
+   "price": 186.83,
+   "qty": 1,
+   "type": "physical",
+   "discount": 10,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-59626",
+   "title": "USB-C cable 2m",
+   "price": 246.26,
+   "qty": 4,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-20255",
+   "title": "USB-C cable 2m",
+   "price": 21.11,
+   "qty": 4,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-59824",
+   "title": "USB-C cable 2m",
+   "price": 192.41,
+   "qty": 3,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-72057",
+   "title": "Notebook A5",
+   "price": 93.81,
+   "qty": 4,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-72198",
+   "title": "Blue mug",
+   "price": 158.28,
+   "qty": 2,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-14568",
+   "title": "Desk lamp",
+   "price": 16.58,
+   "qty": 1,
+   "type": "physical",
+   "discount": 10,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-18238",
+   "title": "Gift card",
+   "price": 85.43,
+   "qty": 3,
+   "type": "physical",
+   "discount": 10,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-44363",
+   "title": "USB-C cable 2m",
+   "price": 231.13,
+   "qty": 3,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-93097",
+   "title": "Blue mug",
+   "price": 7.04,
+   "qty": 2,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-71045",
+   "title": "Desk lamp",
+   "price": 197.66,
+   "qty": 4,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-33978",
+   "title": "Blue mug",
+   "price": 200.84,
+   "qty": 3,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-52965",
+   "title": "USB-C cable 2m",
+   "price": 115.73,
+   "qty": 5,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-61338",
+   "title": "Notebook A5",
+   "price": 62.58,
+   "qty": 1,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-81383",
+   "title": "USB-C cable 2m",
+   "price": 41.01,
+   "qty": 4,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-91867",
+   "title": "Blue mug",
+   "price": 52.88,
+   "qty": 4,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-32700",
+   "title": "Notebook A5",
+   "price": 34.1,
+   "qty": 4,
+   "type": "gift_card",
+   "discount": 5,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-97087",
+   "title": "Blue mug",
+   "price": 195.16,
+   "qty": 3,
+   "type": "physical",
+   "discount": 10,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-45083",
+   "title": "USB-C cable 2m",
+   "price": 64.26,
+   "qty": 3,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-34344",
+   "title": "Notebook A5",
+   "price": 59.64,
+   "qty": 3,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-61913",
+   "title": "USB-C cable 2m",
+   "price": 248.12,
+   "qty": 5,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-95632",
+   "title": "Desk lamp",
+   "price": 247.75,
+   "qty": 1,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-68759",
+   "title": "USB-C cable 2m",
+   "price": 11.05,
+   "qty": 3,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-34847",
+   "title": "Gift card",
+   "price": 243.27,
+   "qty": 5,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-77196",
+   "title": "Notebook A5",
+   "price": 112.83,
+   "qty": 3,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-88138",
+   "title": "Gift card",
+   "price": 88.08,
+   "qty": 1,
+   "type": "physical",
+   "discount": 10,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-15788",
+   "title": "Notebook A5",
+   "price": 249.97,
+   "qty": 1,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-63607",
+   "title": "USB-C cable 2m",
+   "price": 47.1,
+   "qty": 3,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-74962",
+   "title": "Gift card",
+   "price": 121.39,
+   "qty": 4,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-82107",
+   "title": "Notebook A5",
+   "price": 160.16,
+   "qty": 1,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-45542",
+   "title": "Desk lamp",
+   "price": 247.07,
+   "qty": 3,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-84254",
+   "title": "USB-C cable 2m",
+   "price": 104.11,
+   "qty": 1,
+   "type": "physical",
+   "discount": 10,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-61213",
+   "title": "Desk lamp",
+   "price": 51.71,
+   "qty": 1,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-24881",
+   "title": "Blue mug",
+   "price": 102.15,
+   "qty": 3,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-11944",
+   "title": "Blue mug",
+   "price": 138.34,
+   "qty": 4,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-58607",
+   "title": "Gift card",
+   "price": 43.75,
+   "qty": 3,
+   "type": "physical",
+   "discount": 10,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-32516",
+   "title": "Blue mug",
+   "price": 28.09,
+   "qty": 4,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-15701",
+   "title": "Desk lamp",
+   "price": 79.32,
+   "qty": 5,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-91309",
+   "title": "Notebook A5",
+   "price": 160.44,
+   "qty": 2,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-71991",
+   "title": "Notebook A5",
+   "price": 141.79,
+   "qty": 1,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-60276",
+   "title": "USB-C cable 2m",
+   "price": 31.64,
+   "qty": 2,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-98113",
+   "title": "Blue mug",
+   "price": 167.31,
+   "qty": 3,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-69733",
+   "title": "Gift card",
+   "price": 212.4,
+   "qty": 3,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-42670",
+   "title": "Desk lamp",
+   "price": 97.91,
+   "qty": 3,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-33430",
+   "title": "Blue mug",
+   "price": 1.87,
+   "qty": 4,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-91077",
+   "title": "Desk lamp",
+   "price": 209.3,
+   "qty": 4,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-26836",
+   "title": "USB-C cable 2m",
+   "price": 108.22,
+   "qty": 1,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-96126",
+   "title": "Blue mug",
+   "price": 11.12,
+   "qty": 2,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-77040",
+   "title": "Blue mug",
+   "price": 14.51,
+   "qty": 5,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-13389",
+   "title": "Blue mug",
+   "price": 249.03,
+   "qty": 1,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-47733",
+   "title": "Notebook A5",
+   "price": 171.85,
+   "qty": 2,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-43059",
+   "title": "Notebook A5",
+   "price": 81.64,
+   "qty": 5,
+   "type": "physical",
+   "discount": 10,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-43313",
+   "title": "Gift card",
+   "price": 241.12,
+   "qty": 4,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-90722",
+   "title": "Gift card",
+   "price": 60.11,
+   "qty": 3,
+   "type": "gift_card",
+   "discount": 0,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-62883",
+   "title": "Notebook A5",
+   "price": 159.51,
+   "qty": 3,
+   "type": "physical",
+   "discount": 10,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-44647",
+   "title": "Blue mug",
+   "price": 192.3,
+   "qty": 1,
+   "type": "physical",
+   "discount": 10,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-78347",
+   "title": "Gift card",
+   "price": 172.49,
+   "qty": 1,
+   "type": "physical",
+   "discount": 10,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-61675",
+   "title": "USB-C cable 2m",
+   "price": 66.92,
+   "qty": 3,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-20667",
+   "title": "Desk lamp",
+   "price": 58.28,
+   "qty": 5,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-43246",
+   "title": "USB-C cable 2m",
+   "price": 160.17,
+   "qty": 5,
+   "type": "physical",
+   "discount": 10,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-14429",
+   "title": "Notebook A5",
+   "price": 38.19,
+   "qty": 5,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-57723",
+   "title": "Blue mug",
+   "price": 33.87,
+   "qty": 2,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-10342",
+   "title": "Gift card",
+   "price": 89.39,
+   "qty": 1,
+   "type": "physical",
+   "discount": 10,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-64163",
+   "title": "Gift card",
+   "price": 75.99,
+   "qty": 2,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-72246",
+   "title": "Notebook A5",
+   "price": 34.55,
+   "qty": 2,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-18345",
+   "title": "Notebook A5",
+   "price": 217.95,
+   "qty": 3,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-17357",
+   "title": "Gift card",
+   "price": 223.28,
+   "qty": 5,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-74599",
+   "title": "Notebook A5",
+   "price": 42.11,
+   "qty": 1,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-13306",
+   "title": "Desk lamp",
+   "price": 47.23,
+   "qty": 2,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-90299",
+   "title": "Gift card",
+   "price": 164.54,
+   "qty": 2,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-77929",
+   "title": "Gift card",
+   "price": 161.03,
+   "qty": 4,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-18358",
+   "title": "USB-C cable 2m",
+   "price": 156.86,
+   "qty": 4,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-70983",
+   "title": "Blue mug",
+   "price": 185.7,
+   "qty": 4,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-44265",
+   "title": "Notebook A5",
+   "price": 161.36,
+   "qty": 1,
+   "type": "physical",
+   "discount": 10,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-44511",
+   "title": "Blue mug",
+   "price": 67.23,
+   "qty": 5,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-44772",
+   "title": "USB-C cable 2m",
+   "price": 160.86,
+   "qty": 2,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-32252",
+   "title": "USB-C cable 2m",
+   "price": 226.27,
+   "qty": 2,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-35157",
+   "title": "Desk lamp",
+   "price": 82.81,
+   "qty": 2,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-97193",
+   "title": "Gift card",
+   "price": 117.9,
+   "qty": 5,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-40648",
+   "title": "Gift card",
+   "price": 221.3,
+   "qty": 2,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-20197",
+   "title": "Gift card",
+   "price": 227.79,
+   "qty": 2,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-23982",
+   "title": "Gift card",
+   "price": 232.31,
+   "qty": 3,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-14046",
+   "title": "Blue mug",
+   "price": 35.46,
+   "qty": 1,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-18619",
+   "title": "Gift card",
+   "price": 190.68,
+   "qty": 2,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-24039",
+   "title": "Notebook A5",
+   "price": 52.23,
+   "qty": 1,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-21464",
+   "title": "USB-C cable 2m",
+   "price": 119.8,
+   "qty": 2,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-48595",
+   "title": "USB-C cable 2m",
+   "price": 84.79,
+   "qty": 3,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-47040",
+   "title": "Blue mug",
+   "price": 179.22,
+   "qty": 3,
+   "type": "physical",
+   "discount": 10,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-72401",
+   "title": "USB-C cable 2m",
+   "price": 154.95,
+   "qty": 1,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-77976",
+   "title": "Blue mug",
+   "price": 87.35,
+   "qty": 1,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-85306",
+   "title": "USB-C cable 2m",
+   "price": 43.42,
+   "qty": 1,
+   "type": "gift_card",
+   "discount": 5,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-10571",
+   "title": "USB-C cable 2m",
+   "price": 123.21,
+   "qty": 4,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-55506",
+   "title": "Gift card",
+   "price": 65.88,
+   "qty": 2,
+   "type": "physical",
+   "discount": 10,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-40346",
+   "title": "Desk lamp",
+   "price": 42.28,
+   "qty": 1,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-23704",
+   "title": "USB-C cable 2m",
+   "price": 89.55,
+   "qty": 4,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-65329",
+   "title": "Blue mug",
+   "price": 93.62,
+   "qty": 3,
+   "type": "physical",
+   "discount": 10,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-75691",
+   "title": "Notebook A5",
+   "price": 95.45,
+   "qty": 2,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-87868",
+   "title": "Gift card",
+   "price": 161.93,
+   "qty": 3,
+   "type": "physical",
+   "discount": 10,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-69022",
+   "title": "Gift card",
+   "price": 185.75,
+   "qty": 2,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-43713",
+   "title": "Gift card",
+   "price": 58.53,
+   "qty": 3,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-41187",
+   "title": "Gift card",
+   "price": 48.7,
+   "qty": 3,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-42450",
+   "title": "USB-C cable 2m",
+   "price": 151.12,
+   "qty": 3,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-34808",
+   "title": "USB-C cable 2m",
+   "price": 243.81,
+   "qty": 1,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-35615",
+   "title": "Desk lamp",
+   "price": 38.59,
+   "qty": 2,
+   "type": "physical",
+   "discount": 10,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-67006",
+   "title": "USB-C cable 2m",
+   "price": 49.85,
+   "qty": 1,
+   "type": "physical",
+   "discount": 10,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-70806",
+   "title": "Blue mug",
+   "price": 4.14,
+   "qty": 4,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-48825",
+   "title": "Desk lamp",
+   "price": 6.51,
+   "qty": 3,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-41756",
+   "title": "Desk lamp",
+   "price": 175.59,
+   "qty": 5,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-95522",
+   "title": "Gift card",
+   "price": 213.26,
+   "qty": 2,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-51027",
+   "title": "USB-C cable 2m",
+   "price": 157.44,
+   "qty": 1,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-92524",
+   "title": "Notebook A5",
+   "price": 63.27,
+   "qty": 4,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-91470",
+   "title": "Desk lamp",
+   "price": 130.04,
+   "qty": 2,
+   "type": "physical",
+   "discount": 10,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-74204",
+   "title": "Blue mug",
+   "price": 10.5,
+   "qty": 5,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-36189",
+   "title": "Gift card",
+   "price": 87.7,
+   "qty": 5,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-72355",
+   "title": "Gift card",
+   "price": 5.01,
+   "qty": 3,
+   "type": "physical",
+   "discount": 10,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-69888",
+   "title": "Notebook A5",
+   "price": 247.58,
+   "qty": 2,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-90478",
+   "title": "USB-C cable 2m",
+   "price": 159.75,
+   "qty": 3,
+   "type": "physical",
+   "discount": 10,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-18061",
+   "title": "Blue mug",
+   "price": 19.72,
+   "qty": 4,
+   "type": "physical",
+   "discount": 10,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-24320",
+   "title": "Notebook A5",
+   "price": 76.57,
+   "qty": 4,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-37788",
+   "title": "Notebook A5",
+   "price": 33.2,
+   "qty": 1,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-83669",
+   "title": "Notebook A5",
+   "price": 203.85,
+   "qty": 2,
+   "type": "physical",
+   "discount": 10,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-64170",
+   "title": "Desk lamp",
+   "price": 249.04,
+   "qty": 5,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-40206",
+   "title": "USB-C cable 2m",
+   "price": 176.35,
+   "qty": 3,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-73120",
+   "title": "Blue mug",
+   "price": 201.55,
+   "qty": 3,
+   "type": "physical",
+   "discount": 10,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-49560",
+   "title": "USB-C cable 2m",
+   "price": 120.41,
+   "qty": 4,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-30021",
+   "title": "USB-C cable 2m",
+   "price": 213.76,
+   "qty": 1,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-28402",
+   "title": "Gift card",
+   "price": 208.0,
+   "qty": 5,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-37492",
+   "title": "Blue mug",
+   "price": 164.33,
+   "qty": 3,
+   "type": "gift_card",
+   "discount": 0,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-40623",
+   "title": "Notebook A5",
+   "price": 194.3,
+   "qty": 3,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-80060",
+   "title": "Notebook A5",
+   "price": 152.77,
+   "qty": 5,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-93439",
+   "title": "USB-C cable 2m",
+   "price": 50.15,
+   "qty": 2,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-97979",
+   "title": "Blue mug",
+   "price": 139.21,
+   "qty": 3,
+   "type": "physical",
+   "discount": "15%",
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-72028",
+   "title": "Desk lamp",
+   "price": 139.74,
+   "qty": 4,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-74405",
+   "title": "Notebook A5",
+   "price": 125.05,
+   "qty": 5,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-71336",
+   "title": "Gift card",
+   "price": 124.9,
+   "qty": 3,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-64895",
+   "title": "Blue mug",
+   "price": 45.95,
+   "qty": 3,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-16012",
+   "title": "USB-C cable 2m",
+   "price": 202.34,
+   "qty": 1,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-14442",
+   "title": "Notebook A5",
+   "price": 179.83,
+   "qty": 2,
+   "type": "physical",
+   "discount": 10,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-57993",
+   "title": "USB-C cable 2m",
+   "price": 119.16,
+   "qty": 5,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-54820",
+   "title": "Desk lamp",
+   "price": 63.64,
+   "qty": 1,
+   "type": "physical",
+   "discount": 10,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-74714",
+   "title": "Desk lamp",
+   "price": 84.1,
+   "qty": 3,
+   "type": "physical",
+   "discount": 10,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-74512",
+   "title": "Blue mug",
+   "price": 83.39,
+   "qty": 3,
+   "type": "physical",
+   "discount": 10,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-93207",
+   "title": "Blue mug",
+   "price": 196.27,
+   "qty": 1,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-63219",
+   "title": "Gift card",
+   "price": 143.94,
+   "qty": 4,
+   "type": "physical",
+   "discount": 10,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-16081",
+   "title": "Notebook A5",
+   "price": 205.67,
+   "qty": 4,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-90181",
+   "title": "Desk lamp",
+   "price": 154.56,
+   "qty": 5,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-97425",
+   "title": "Desk lamp",
+   "price": 156.69,
+   "qty": 2,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-14846",
+   "title": "Desk lamp",
+   "price": 193.86,
+   "qty": 1,
+   "type": "physical",
+   "discount": 10,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-83675",
+   "title": "USB-C cable 2m",
+   "price": 215.75,
+   "qty": 2,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-12672",
+   "title": "Desk lamp",
+   "price": 142.02,
+   "qty": 5,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-78439",
+   "title": "Blue mug",
+   "price": 206.36,
+   "qty": 4,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-11852",
+   "title": "Desk lamp",
+   "price": 148.87,
+   "qty": 2,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-23375",
+   "title": "Blue mug",
+   "price": 161.48,
+   "qty": 2,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-65967",
+   "title": "Blue mug",
+   "price": 3.32,
+   "qty": 1,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-26904",
+   "title": "Desk lamp",
+   "price": 5.43,
+   "qty": 5,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-34564",
+   "title": "Blue mug",
+   "price": 92.1,
+   "qty": 2,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-83071",
+   "title": "Desk lamp",
+   "price": 115.68,
+   "qty": 3,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-11494",
+   "title": "Blue mug",
+   "price": 4.67,
+   "qty": 5,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-50959",
+   "title": "Gift card",
+   "price": 42.33,
+   "qty": 4,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-85361",
+   "title": "Desk lamp",
+   "price": 117.98,
+   "qty": 2,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-94526",
+   "title": "Notebook A5",
+   "price": 157.8,
+   "qty": 4,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-45649",
+   "title": "Gift card",
+   "price": 84.14,
+   "qty": 3,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-88630",
+   "title": "USB-C cable 2m",
+   "price": 217.52,
+   "qty": 1,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-86633",
+   "title": "Desk lamp",
+   "price": 244.12,
+   "qty": 2,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-59309",
+   "title": "Gift card",
+   "price": 193.09,
+   "qty": 2,
+   "type": "gift_card",
+   "discount": 20,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-10220",
+   "title": "USB-C cable 2m",
+   "price": 66.5,
+   "qty": 4,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-47817",
+   "title": "Notebook A5",
+   "price": 203.13,
+   "qty": 5,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-99736",
+   "title": "Desk lamp",
+   "price": 87.37,
+   "qty": 1,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-40675",
+   "title": "USB-C cable 2m",
+   "price": 152.12,
+   "qty": 4,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-43388",
+   "title": "Gift card",
+   "price": 188.03,
+   "qty": 4,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-80274",
+   "title": "USB-C cable 2m",
+   "price": 193.27,
+   "qty": 2,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-44018",
+   "title": "Gift card",
+   "price": 80.93,
+   "qty": 5,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-35206",
+   "title": "Blue mug",
+   "price": 45.99,
+   "qty": 3,
+   "type": "physical",
+   "discount": 10,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-57040",
+   "title": "Desk lamp",
+   "price": 195.13,
+   "qty": 2,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-59026",
+   "title": "Blue mug",
+   "price": 93.55,
+   "qty": 4,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-88277",
+   "title": "Blue mug",
+   "price": 86.89,
+   "qty": 5,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-36823",
+   "title": "Gift card",
+   "price": 122.09,
+   "qty": 5,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-65830",
+   "title": "Blue mug",
+   "price": 236.68,
+   "qty": 5,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-54412",
+   "title": "Notebook A5",
+   "price": 248.66,
+   "qty": 4,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-14562",
+   "title": "Gift card",
+   "price": 93.04,
+   "qty": 4,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-93865",
+   "title": "Desk lamp",
+   "price": 230.62,
+   "qty": 1,
+   "type": "physical",
+   "discount": 10,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-40567",
+   "title": "Blue mug",
+   "price": 239.15,
+   "qty": 5,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-30935",
+   "title": "USB-C cable 2m",
+   "price": 241.48,
+   "qty": 2,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-56138",
+   "title": "Blue mug",
+   "price": 225.79,
+   "qty": 1,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-94762",
+   "title": "Desk lamp",
+   "price": 14.89,
+   "qty": 2,
+   "type": "physical",
+   "discount": 10,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-98721",
+   "title": "USB-C cable 2m",
+   "price": 147.86,
+   "qty": 4,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-58717",
+   "title": "USB-C cable 2m",
+   "price": 98.12,
+   "qty": 3,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-67853",
+   "title": "Notebook A5",
+   "price": 202.08,
+   "qty": 1,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-14720",
+   "title": "Notebook A5",
+   "price": 231.99,
+   "qty": 2,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-28318",
+   "title": "Desk lamp",
+   "price": 239.53,
+   "qty": 4,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-69288",
+   "title": "USB-C cable 2m",
+   "price": 81.32,
+   "qty": 2,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-57976",
+   "title": "Notebook A5",
+   "price": 83.66,
+   "qty": 1,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-82531",
+   "title": "Notebook A5",
+   "price": 110.3,
+   "qty": 2,
+   "type": "physical",
+   "discount": 10,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-42342",
+   "title": "Notebook A5",
+   "price": 7.33,
+   "qty": 5,
+   "type": "physical",
+   "discount": 10,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-44166",
+   "title": "Desk lamp",
+   "price": 28.2,
+   "qty": 4,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-77299",
+   "title": "Blue mug",
+   "price": 158.12,
+   "qty": 2,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-43789",
+   "title": "Notebook A5",
+   "price": 242.7,
+   "qty": 4,
+   "type": "physical",
+   "discount": 10,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-22788",
+   "title": "Desk lamp",
+   "price": 73.07,
+   "qty": 2,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-28920",
+   "title": "Blue mug",
+   "price": 111.09,
+   "qty": 5,
+   "type": "physical",
+   "discount": 10,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-68065",
+   "title": "Blue mug",
+   "price": 197.6,
+   "qty": 5,
+   "type": "physical",
+   "discount": 10,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-67049",
+   "title": "Blue mug",
+   "price": 228.08,
+   "qty": 2,
+   "type": "physical",
+   "discount": 10,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-28097",
+   "title": "Notebook A5",
+   "price": 130.89,
+   "qty": 2,
+   "type": "gift_card",
+   "discount": 5,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-20389",
+   "title": "Blue mug",
+   "price": 222.44,
+   "qty": 4,
+   "type": "physical",
+   "discount": 10,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-27962",
+   "title": "Gift card",
+   "price": 167.8,
+   "qty": 2,
+   "type": "physical",
+   "discount": 10,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-18610",
+   "title": "Gift card",
+   "price": 102.62,
+   "qty": 1,
+   "type": "physical",
+   "discount": 10,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-93778",
+   "title": "Desk lamp",
+   "price": 23.49,
+   "qty": 4,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-44899",
+   "title": "Notebook A5",
+   "price": 47.33,
+   "qty": 3,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-58649",
+   "title": "Gift card",
+   "price": 149.13,
+   "qty": 1,
+   "type": "physical",
+   "discount": 10,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-77584",
+   "title": "Blue mug",
+   "price": 31.07,
+   "qty": 2,
+   "type": "physical",
+   "discount": 10,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-85538",
+   "title": "Blue mug",
+   "price": 73.59,
+   "qty": 1,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-13360",
+   "title": "Gift card",
+   "price": 201.32,
+   "qty": 2,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-39320",
+   "title": "Gift card",
+   "price": 46.42,
+   "qty": 1,
+   "type": "physical",
+   "discount": 10,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-13941",
+   "title": "Blue mug",
+   "price": 25.02,
+   "qty": 2,
+   "type": "physical",
+   "discount": 10,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-93471",
+   "title": "Gift card",
+   "price": 116.52,
+   "qty": 2,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-22308",
+   "title": "Notebook A5",
+   "price": 12.25,
+   "qty": 1,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-75635",
+   "title": "USB-C cable 2m",
+   "price": 28.4,
+   "qty": 1,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-87569",
+   "title": "Notebook A5",
+   "price": 215.41,
+   "qty": 2,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-31538",
+   "title": "Blue mug",
+   "price": 234.46,
+   "qty": 4,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-78893",
+   "title": "Blue mug",
+   "price": 99.51,
+   "qty": 1,
+   "type": "physical",
+   "discount": 10,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-41506",
+   "title": "USB-C cable 2m",
+   "price": 179.17,
+   "qty": 5,
+   "type": "physical",
+   "discount": 10,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-17019",
+   "title": "USB-C cable 2m",
+   "price": 129.83,
+   "qty": 3,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-92927",
+   "title": "Blue mug",
+   "price": 91.74,
+   "qty": 5,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-66759",
+   "title": "Notebook A5",
+   "price": 126.69,
+   "qty": 1,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-62042",
+   "title": "Desk lamp",
+   "price": 158.67,
+   "qty": 1,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-44835",
+   "title": "Gift card",
+   "price": 69.08,
+   "qty": 5,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-42844",
+   "title": "Blue mug",
+   "price": 130.56,
+   "qty": 4,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-24816",
+   "title": "USB-C cable 2m",
+   "price": 87.54,
+   "qty": 2,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-77342",
+   "title": "USB-C cable 2m",
+   "price": 22.03,
+   "qty": 5,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-77060",
+   "title": "Notebook A5",
+   "price": 221.41,
+   "qty": 4,
+   "type": "physical",
+   "discount": 10,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-21514",
+   "title": "Gift card",
+   "price": 72.5,
+   "qty": 4,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-36370",
+   "title": "Gift card",
+   "price": 177.88,
+   "qty": 4,
+   "type": "physical",
+   "discount": 10,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-71468",
+   "title": "USB-C cable 2m",
+   "price": 8.71,
+   "qty": 3,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-81554",
+   "title": "Desk lamp",
+   "price": 242.43,
+   "qty": 4,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-41266",
+   "title": "USB-C cable 2m",
+   "price": 139.61,
+   "qty": 4,
+   "type": "physical",
+   "discount": 10,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-48732",
+   "title": "Blue mug",
+   "price": 193.26,
+   "qty": 2,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-67669",
+   "title": "Blue mug",
+   "price": 129.73,
+   "qty": 4,
+   "type": "physical",
+   "discount": 10,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-78279",
+   "title": "Notebook A5",
+   "price": 247.34,
+   "qty": 2,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-56196",
+   "title": "Notebook A5",
+   "price": 169.16,
+   "qty": 5,
+   "type": "physical",
+   "discount": 10,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-72290",
+   "title": "USB-C cable 2m",
+   "price": 196.45,
+   "qty": 2,
+   "type": "gift_card",
+   "discount": 20,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-63794",
+   "title": "Gift card",
+   "price": 146.87,
+   "qty": 4,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-64776",
+   "title": "USB-C cable 2m",
+   "price": 218.32,
+   "qty": 5,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-70018",
+   "title": "USB-C cable 2m",
+   "price": 181.04,
+   "qty": 3,
+   "type": "physical",
+   "discount": 10,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-82791",
+   "title": "Gift card",
+   "price": 96.74,
+   "qty": 3,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-59895",
+   "title": "Desk lamp",
+   "price": 75.71,
+   "qty": 5,
+   "type": "physical",
+   "discount": 10,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-85423",
+   "title": "Desk lamp",
+   "price": 145.81,
+   "qty": 1,
+   "type": "physical",
+   "discount": 10,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-41804",
+   "title": "USB-C cable 2m",
+   "price": 51.87,
+   "qty": 4,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-43626",
+   "title": "Gift card",
+   "price": 224.08,
+   "qty": 3,
+   "type": "physical",
+   "discount": 10,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-67299",
+   "title": "Gift card",
+   "price": 206.59,
+   "qty": 4,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-15336",
+   "title": "Gift card",
+   "price": 169.38,
+   "qty": 4,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-78845",
+   "title": "Notebook A5",
+   "price": 25.64,
+   "qty": 3,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-85242",
+   "title": "Notebook A5",
+   "price": 220.08,
+   "qty": 4,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-91868",
+   "title": "Gift card",
+   "price": 86.48,
+   "qty": 5,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-51691",
+   "title": "USB-C cable 2m",
+   "price": 244.63,
+   "qty": 3,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-48655",
+   "title": "USB-C cable 2m",
+   "price": 205.32,
+   "qty": 5,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-78689",
+   "title": "USB-C cable 2m",
+   "price": 204.22,
+   "qty": 2,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-17886",
+   "title": "Gift card",
+   "price": 151.18,
+   "qty": 3,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-11406",
+   "title": "Blue mug",
+   "price": 77.38,
+   "qty": 5,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-22910",
+   "title": "Gift card",
+   "price": 4.84,
+   "qty": 1,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-82515",
+   "title": "Gift card",
+   "price": 67.24,
+   "qty": 5,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-63883",
+   "title": "Gift card",
+   "price": 31.25,
+   "qty": 2,
+   "type": "physical",
+   "discount": 0,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-19978",
+   "title": "Notebook A5",
+   "price": 237.01,
+   "qty": 4,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": [
+     "sale"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-18141",
+   "title": "Blue mug",
+   "price": 171.46,
+   "qty": 5,
+   "type": "physical",
+   "discount": 10,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-41229",
+   "title": "USB-C cable 2m",
+   "price": 69.59,
+   "qty": 1,
+   "type": "physical",
+   "discount": 10,
+   "meta": {
+    "warehouse": "BLR-3",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-86317",
+   "title": "Blue mug",
+   "price": 87.87,
+   "qty": 4,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-38842",
+   "title": "Desk lamp",
+   "price": 146.08,
+   "qty": 1,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": [
+     "sale",
+     "q4"
+    ]
+   }
+  },
+  {
+   "sku": "SKU-41233",
+   "title": "Notebook A5",
+   "price": 56.5,
+   "qty": 2,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-69695",
+   "title": "USB-C cable 2m",
+   "price": 105.18,
+   "qty": 3,
+   "type": "physical",
+   "discount": 20,
+   "meta": {
+    "warehouse": "DEL-1",
+    "tags": []
+   }
+  },
+  {
+   "sku": "SKU-98772",
+   "title": "Desk lamp",
+   "price": 169.05,
+   "qty": 5,
+   "type": "physical",
+   "discount": 5,
+   "meta": {
+    "warehouse": "BOM-2",
+    "tags": [
+     "sale"
+    ]
+   }
+  }
+ ],
+ "fees": [
+  {
+   "kind": "shipping",
+   "amount": 49
+  },
+  {
+   "kind": "cod",
+   "amount": 25
+  }
+ ],
+ "notes": "Leave at the gate. Leave at the gate. Leave at the gate. Leave at the gate. Leave at the gate. Leave at the gate. Leave at the gate. Leave at the gate. Leave at the gate. Leave at the gate. Leave at the gate. Leave at the gate. Leave at the gate. Leave at the gate. Leave at the gate. Leave at the gate. Leave at the gate. Leave at the gate. Leave at the gate. Leave at the gate. "
+}
